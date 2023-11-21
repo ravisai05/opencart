@@ -1,0 +1,1497 @@
+17:27:29.956 [main] INFO  com.testBase.RegistrationTestCase - ***************************Starting TC_01***************************
+17:27:30.819 [main] INFO  com.testBase.RegistrationTestCase - IN to Register Page
+17:27:30.822 [main] INFO  com.testBase.RegistrationTestCase - Credentials
+17:27:51.661 [main] INFO  com.testBase.RegistrationTestCase - capturing Title
+17:30:47.820 [main] INFO  com.testBase.RegistrationTestCase - ***************************Starting TC_01***************************
+17:30:48.785 [main] INFO  com.testBase.RegistrationTestCase - IN to Register Page
+17:30:48.789 [main] INFO  com.testBase.RegistrationTestCase - Entering Credentials
+17:31:09.542 [main] INFO  com.testBase.RegistrationTestCase - capturing the  Title
+17:46:45.830 [main] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+17:46:46.430 [main] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+17:46:46.433 [main] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+17:47:06.971 [main] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+17:50:24.766 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+17:50:25.673 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+17:50:25.685 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+17:50:30.565 [TestNG-tests-3] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+17:50:31.529 [TestNG-tests-3] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+17:50:31.530 [TestNG-tests-3] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+17:50:34.738 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+17:50:35.485 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+17:50:35.485 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+17:50:47.119 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+17:50:51.783 [TestNG-tests-3] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+17:50:56.065 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+18:03:54.167 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+18:03:57.040 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+18:03:57.046 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+18:03:57.212 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+18:03:58.478 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+18:03:58.479 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+18:03:59.964 [TestNG-tests-3] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+18:04:00.790 [TestNG-tests-3] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+18:04:00.792 [TestNG-tests-3] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+18:04:18.242 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+18:04:19.530 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+18:04:21.015 [TestNG-tests-3] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+11:17:37.697 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+11:17:37.966 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+11:17:37.966 [TestNG-tests-3] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+11:17:39.698 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+11:17:39.703 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+11:17:39.773 [TestNG-tests-3] INFO  com.testCases.RegistrationTestCase - Failed
+11:17:39.773 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Failed
+11:17:41.615 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Failed
+11:24:04.571 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+11:24:05.888 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+11:24:05.893 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+11:24:26.589 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+11:25:23.603 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+11:25:25.009 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+11:25:28.037 [TestNG-tests-3] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+11:25:29.329 [TestNG-tests-3] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+11:25:29.335 [TestNG-tests-3] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+11:25:45.533 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Failed
+11:25:49.647 [TestNG-tests-3] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+11:26:05.576 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Failed
+11:29:56.378 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+11:29:56.378 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+11:30:01.065 [TestNG-tests-3] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+11:30:02.529 [TestNG-tests-3] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+11:30:02.538 [TestNG-tests-3] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+11:30:16.815 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+11:30:16.817 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+11:30:16.896 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Failed
+11:30:23.412 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Failed
+11:30:23.671 [TestNG-tests-3] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+11:35:54.670 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+11:35:55.339 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+11:36:00.653 [TestNG-tests-3] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+11:36:02.713 [TestNG-tests-3] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+11:36:02.719 [TestNG-tests-3] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+11:36:11.000 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Failed
+11:36:11.002 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Failed
+11:36:23.195 [TestNG-tests-3] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+11:37:30.519 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+11:37:30.885 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+11:37:32.121 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+11:37:32.124 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+11:37:32.138 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Failed
+11:37:32.654 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Failed
+11:37:34.220 [TestNG-tests-3] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+11:37:35.726 [TestNG-tests-3] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+11:37:35.727 [TestNG-tests-3] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+11:37:56.275 [TestNG-tests-3] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+11:40:00.143 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+11:40:00.774 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+11:40:00.779 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+11:40:21.384 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+11:41:27.959 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+11:41:29.423 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+11:41:29.428 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+11:41:31.716 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+11:41:32.828 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+11:41:32.830 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+11:41:50.524 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+11:41:53.174 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+11:43:20.286 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+11:43:21.451 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+11:43:21.455 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+11:43:23.009 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+11:43:23.867 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+11:43:23.868 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+11:43:42.101 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+11:43:44.072 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+11:45:08.019 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+11:45:09.866 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+11:45:09.874 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+11:45:12.765 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+11:45:13.593 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+11:45:13.594 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+11:45:30.971 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+11:45:33.815 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+11:51:07.407 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+11:51:08.146 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+11:51:08.151 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+11:51:10.864 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+11:51:11.737 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+11:51:11.738 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+11:51:28.878 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+11:51:31.983 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+11:56:16.531 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Started Chrome
+11:56:21.244 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+11:56:22.734 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+11:56:22.742 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+11:56:25.399 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+11:56:26.198 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+11:56:26.199 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+11:56:43.633 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+11:56:46.513 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+11:59:27.136 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Started Chrome
+11:59:32.017 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+11:59:33.716 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+11:59:33.719 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+11:59:36.437 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+11:59:37.742 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+11:59:37.743 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+11:59:54.365 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+11:59:57.996 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+21:09:34.393 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Started Chrome
+21:10:31.282 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Started Chrome
+21:10:46.334 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+21:10:48.533 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+21:10:48.540 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+21:10:53.615 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+21:10:54.816 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+21:10:54.817 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+21:11:09.261 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+21:11:15.024 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+21:14:03.918 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Started edge
+21:14:07.427 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+21:14:08.232 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+21:14:08.238 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+21:14:10.088 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+21:14:11.296 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+21:14:11.298 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+21:14:28.936 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+21:14:31.491 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+21:18:05.286 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Started Chrome
+21:18:08.406 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+21:18:09.464 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+21:18:09.468 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+21:18:11.649 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+21:18:12.728 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+21:18:12.728 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+21:18:30.182 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+21:18:32.986 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+21:31:52.752 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Started Chrome
+21:32:05.061 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+21:32:05.064 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+21:32:05.691 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Failed
+21:32:05.691 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Failed
+21:33:37.701 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Started Chrome
+21:33:41.228 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+21:33:42.329 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+21:33:42.333 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+21:33:46.265 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+21:33:47.347 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+21:33:47.348 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+21:34:03.288 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+21:34:07.633 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+21:34:58.488 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Started Chrome
+21:35:01.467 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+21:35:03.220 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+21:35:03.228 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+21:35:06.198 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+21:35:07.521 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+21:35:07.522 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+21:35:24.023 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+21:35:27.704 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+21:37:05.416 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Started Chrome
+21:37:10.173 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+21:37:11.391 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+21:37:11.397 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+21:37:13.599 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+21:37:14.435 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+21:37:14.436 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+21:37:32.335 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+21:37:34.661 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+21:40:17.534 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Started firefox
+21:40:21.338 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+21:40:22.339 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+21:40:22.342 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+21:40:24.449 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+21:40:25.542 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+21:40:25.543 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+21:40:43.084 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+21:40:45.788 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+21:44:44.583 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Started firefox
+21:44:48.419 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+21:44:49.339 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+21:44:49.344 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+21:44:51.239 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+21:44:52.314 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+21:44:52.315 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+21:45:10.057 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+21:45:12.565 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+21:57:44.391 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Started Chrome
+21:57:48.195 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+21:57:49.028 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+21:57:49.030 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+21:57:51.237 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+21:57:52.422 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+21:57:52.425 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+21:58:09.755 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+21:58:12.727 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+22:00:49.994 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Started Chrome
+22:00:53.589 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+22:00:54.312 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+22:00:54.315 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+22:00:56.058 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+22:00:57.019 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+22:00:57.019 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+22:01:15.028 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+22:01:17.214 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+22:03:05.090 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Started Chrome
+22:03:08.639 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+22:03:09.602 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+22:03:09.605 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+22:03:11.565 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+22:03:12.712 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+22:03:12.713 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+22:03:30.254 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+22:03:32.940 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+22:04:04.938 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Started firefox
+22:04:08.505 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+22:04:09.284 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+22:04:09.288 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+22:04:11.628 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+22:04:12.777 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+22:04:12.779 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+22:04:29.990 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+22:04:33.255 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+22:05:54.206 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Started firefox
+22:05:58.630 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+22:05:59.896 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+22:05:59.905 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+22:06:02.519 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+22:06:03.661 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+22:06:03.662 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+22:06:20.782 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+22:06:23.906 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+22:11:34.474 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Started Chrome
+22:11:40.733 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+22:11:41.975 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+22:11:41.983 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+22:11:43.737 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+22:11:44.667 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+22:11:44.668 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+22:12:02.670 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+22:12:04.850 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+22:12:33.487 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Started firefox
+22:12:38.162 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+22:12:39.521 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+22:12:39.526 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+22:12:41.779 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+22:12:42.766 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+22:12:42.767 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+22:13:00.228 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+22:13:03.026 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+22:15:16.677 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Started Chrome
+22:15:21.858 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+22:15:23.105 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+22:15:23.110 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+22:15:25.635 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+22:15:26.912 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+22:15:26.914 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+22:15:43.971 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+22:15:47.197 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+22:16:33.959 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Started firefox
+22:16:40.642 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+22:16:41.707 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+22:16:41.712 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+22:17:02.088 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+22:18:24.154 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Started firefox
+22:18:29.918 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+22:18:30.796 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+22:18:30.800 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+22:18:51.024 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+22:20:49.541 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Started firefox
+22:20:57.673 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+22:20:57.673 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+22:20:58.261 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Failed
+22:20:58.261 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Failed
+22:21:58.005 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Started firefox
+22:22:06.056 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+22:22:06.056 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+22:22:06.676 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Failed
+22:22:06.676 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Failed
+22:23:27.017 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Started Chrome
+22:23:31.137 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+22:23:31.889 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+22:23:31.891 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+22:23:34.000 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+22:23:34.859 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+22:23:34.860 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+22:23:52.523 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+22:23:55.077 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+22:24:32.624 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Started firefox
+22:24:37.446 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+22:24:38.427 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+22:24:38.433 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+22:24:39.922 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+22:24:41.023 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+22:24:41.025 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+22:24:59.063 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+22:25:01.304 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+22:26:02.214 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Started firefox
+22:26:08.844 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+22:26:09.799 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+22:26:09.803 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+22:26:11.585 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+22:26:12.330 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+22:26:12.331 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+22:26:30.416 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+22:26:32.603 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+22:58:02.078 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Started firefox
+22:58:06.656 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+22:58:07.439 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+22:58:07.446 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+22:58:09.142 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+22:58:10.105 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+22:58:10.107 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+22:58:28.042 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+22:58:30.354 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+23:20:42.784 [TestNG-tests-1] INFO  com.testCases.LoginTest - Started firefox
+23:20:48.366 [TestNG-tests-1] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+23:20:48.396 [TestNG-tests-1] INFO  com.testCases.LoginTest - Login Page
+23:23:19.504 [TestNG-tests-1] INFO  com.testCases.LoginTest - Started Chrome
+23:23:28.278 [TestNG-tests-1] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+23:23:28.330 [TestNG-tests-1] INFO  com.testCases.LoginTest - Login Page
+23:23:34.139 [TestNG-tests-1] INFO  com.testCases.LoginTest - providing login details
+23:23:35.366 [TestNG-tests-1] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+23:25:07.847 [TestNG-tests-1] INFO  com.testCases.LoginTest - Started Chrome
+23:25:11.763 [TestNG-tests-1] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+23:25:11.815 [TestNG-tests-1] INFO  com.testCases.LoginTest - Login Page
+23:25:12.887 [TestNG-tests-1] INFO  com.testCases.LoginTest - providing login details
+23:25:14.622 [TestNG-tests-1] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+18:36:14.856 [TestNG-tests-1] INFO  com.testCases.LoginTest - Started Chrome
+18:36:27.044 [TestNG-tests-1] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+18:36:27.074 [TestNG-tests-1] INFO  com.testCases.LoginTest - Login Page
+18:36:27.817 [TestNG-tests-1] INFO  com.testCases.LoginTest - providing login details
+18:36:29.155 [TestNG-tests-1] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+18:37:36.763 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Started Chrome
+18:37:43.495 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+18:37:46.010 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+18:37:46.017 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+18:37:49.081 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+18:37:50.912 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+18:37:50.913 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+18:38:07.016 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+18:38:11.339 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+18:38:11.343 [TestNG-tests-2] INFO  com.testCases.LoginTest - Started firefox
+18:38:19.546 [TestNG-tests-2] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+18:38:19.548 [TestNG-tests-2] INFO  com.testCases.LoginTest - Login Page
+18:38:21.049 [TestNG-tests-2] INFO  com.testCases.LoginTest - providing login details
+18:38:23.111 [TestNG-tests-2] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+18:42:29.093 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Started Chrome
+18:42:36.206 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+18:42:37.796 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+18:42:37.800 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+18:42:41.095 [TestNG-tests-2] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+18:42:41.096 [TestNG-tests-2] INFO  com.testCases.LoginTest - Login Page
+18:42:42.421 [TestNG-tests-2] INFO  com.testCases.LoginTest - providing login details
+18:42:43.775 [TestNG-tests-2] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+18:42:58.889 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+18:43:55.872 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Started Chrome
+18:44:00.704 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+18:44:01.727 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+18:44:01.732 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+18:44:03.734 [TestNG-tests-2] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+18:44:03.736 [TestNG-tests-2] INFO  com.testCases.LoginTest - Login Page
+18:44:04.663 [TestNG-tests-2] INFO  com.testCases.LoginTest - providing login details
+18:44:05.852 [TestNG-tests-2] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+18:44:22.706 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+18:45:13.752 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Started firefox
+18:45:19.713 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+18:45:20.862 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+18:45:20.868 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+18:45:23.722 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+18:45:24.976 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+18:45:24.977 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+18:45:41.895 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+18:45:41.931 [TestNG-tests-1] INFO  com.testCases.LoginTest - Started Chrome
+18:45:45.144 [TestNG-tests-1] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+18:45:45.145 [TestNG-tests-1] INFO  com.testCases.LoginTest - Login Page
+18:45:45.493 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+18:45:45.511 [TestNG-tests-2] INFO  com.testCases.LoginTest - Started firefox
+18:45:46.603 [TestNG-tests-1] INFO  com.testCases.LoginTest - providing login details
+18:45:48.468 [TestNG-tests-1] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+18:45:53.930 [TestNG-tests-2] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+18:45:53.931 [TestNG-tests-2] INFO  com.testCases.LoginTest - Login Page
+18:45:55.135 [TestNG-tests-2] INFO  com.testCases.LoginTest - providing login details
+18:45:56.357 [TestNG-tests-2] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+18:47:51.491 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Started Chrome
+18:47:58.009 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+18:47:59.348 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+18:47:59.352 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+18:48:02.558 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+18:48:03.685 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+18:48:03.686 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+18:48:20.345 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+18:48:22.735 [TestNG-tests-1] INFO  com.testCases.LoginTest - Started Chrome
+18:48:24.102 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+18:48:24.228 [TestNG-tests-2] INFO  com.testCases.LoginTest - Started firefox
+18:48:26.194 [TestNG-tests-1] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+18:48:26.195 [TestNG-tests-1] INFO  com.testCases.LoginTest - Login Page
+18:48:27.594 [TestNG-tests-1] INFO  com.testCases.LoginTest - providing login details
+18:48:29.642 [TestNG-tests-1] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+18:48:33.044 [TestNG-tests-2] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+18:48:33.046 [TestNG-tests-2] INFO  com.testCases.LoginTest - Login Page
+18:48:34.291 [TestNG-tests-2] INFO  com.testCases.LoginTest - providing login details
+18:48:35.590 [TestNG-tests-2] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+18:49:34.471 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Started firefox
+18:49:40.134 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+18:49:41.428 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+18:49:41.433 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+18:49:44.242 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+18:49:45.466 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+18:49:45.468 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+18:50:02.372 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+18:50:04.839 [TestNG-tests-1] INFO  com.testCases.LoginTest - Started Chrome
+18:50:05.908 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+18:50:06.030 [TestNG-tests-2] INFO  com.testCases.LoginTest - Started firefox
+18:50:08.472 [TestNG-tests-1] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+18:50:08.473 [TestNG-tests-1] INFO  com.testCases.LoginTest - Login Page
+18:50:09.910 [TestNG-tests-1] INFO  com.testCases.LoginTest - providing login details
+18:50:11.910 [TestNG-tests-1] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+18:50:14.979 [TestNG-tests-2] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+18:50:14.979 [TestNG-tests-2] INFO  com.testCases.LoginTest - Login Page
+18:50:16.041 [TestNG-tests-2] INFO  com.testCases.LoginTest - providing login details
+18:50:17.169 [TestNG-tests-2] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+18:51:07.069 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Started firefox
+18:51:15.052 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+18:51:16.056 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+18:51:16.063 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+18:51:18.754 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+18:51:19.820 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+18:51:19.822 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+18:51:37.013 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+18:51:37.046 [TestNG-tests-1] INFO  com.testCases.LoginTest - Started Chrome
+18:51:39.796 [TestNG-tests-1] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+18:51:39.797 [TestNG-tests-1] INFO  com.testCases.LoginTest - Login Page
+18:51:40.262 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+18:51:40.268 [TestNG-tests-2] INFO  com.testCases.LoginTest - Started firefox
+18:51:41.290 [TestNG-tests-1] INFO  com.testCases.LoginTest - providing login details
+18:51:43.217 [TestNG-tests-1] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+18:51:48.820 [TestNG-tests-2] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+18:51:48.822 [TestNG-tests-2] INFO  com.testCases.LoginTest - Login Page
+18:51:50.182 [TestNG-tests-2] INFO  com.testCases.LoginTest - providing login details
+18:51:51.664 [TestNG-tests-2] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+18:56:05.104 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Started firefox
+18:56:12.968 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+18:56:14.188 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+18:56:14.192 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+18:56:16.937 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+18:56:18.093 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+18:56:18.094 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+18:56:35.153 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+18:56:35.187 [TestNG-tests-1] INFO  com.testCases.LoginTest - Started Chrome
+18:56:38.176 [TestNG-tests-1] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+18:56:38.177 [TestNG-tests-1] INFO  com.testCases.LoginTest - Login Page
+18:56:38.503 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+18:56:38.508 [TestNG-tests-2] INFO  com.testCases.LoginTest - Started firefox
+18:56:39.523 [TestNG-tests-1] INFO  com.testCases.LoginTest - providing login details
+18:56:41.905 [TestNG-tests-1] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+18:56:47.570 [TestNG-tests-2] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+18:56:47.571 [TestNG-tests-2] INFO  com.testCases.LoginTest - Login Page
+18:56:48.782 [TestNG-tests-2] INFO  com.testCases.LoginTest - providing login details
+18:56:50.335 [TestNG-tests-2] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+19:10:19.564 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Started Chrome
+19:10:26.070 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+19:10:27.606 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+19:10:27.611 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+19:10:31.013 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+19:10:32.601 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+19:10:32.602 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+19:10:48.762 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+19:10:48.805 [TestNG-tests-1] INFO  com.testCases.LoginTest - Started Chrome
+19:10:52.456 [TestNG-tests-1] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+19:10:52.457 [TestNG-tests-1] INFO  com.testCases.LoginTest - Login Page
+19:10:53.137 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+19:10:53.144 [TestNG-tests-2] INFO  com.testCases.LoginTest - Started firefox
+19:10:53.917 [TestNG-tests-1] INFO  com.testCases.LoginTest - providing login details
+19:10:56.045 [TestNG-tests-1] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+19:11:03.757 [TestNG-tests-2] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+19:11:03.758 [TestNG-tests-2] INFO  com.testCases.LoginTest - Login Page
+19:11:05.794 [TestNG-tests-2] INFO  com.testCases.LoginTest - providing login details
+19:11:07.969 [TestNG-tests-2] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+19:12:30.698 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Started firefox
+19:12:37.558 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+19:12:38.759 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+19:12:38.765 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+19:12:41.974 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+19:12:43.334 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+19:12:43.335 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+19:12:59.823 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+19:12:59.865 [TestNG-tests-1] INFO  com.testCases.LoginTest - Started Chrome
+19:13:03.171 [TestNG-tests-1] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+19:13:03.172 [TestNG-tests-1] INFO  com.testCases.LoginTest - Login Page
+19:13:03.736 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+19:13:03.742 [TestNG-tests-2] INFO  com.testCases.LoginTest - Started firefox
+19:13:04.552 [TestNG-tests-1] INFO  com.testCases.LoginTest - providing login details
+19:13:06.851 [TestNG-tests-1] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+19:13:12.076 [TestNG-tests-2] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+19:13:12.077 [TestNG-tests-2] INFO  com.testCases.LoginTest - Login Page
+19:13:13.295 [TestNG-tests-2] INFO  com.testCases.LoginTest - providing login details
+19:13:14.485 [TestNG-tests-2] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+19:18:33.501 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Started firefox
+19:18:41.456 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+19:18:42.981 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+19:18:42.990 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+19:18:45.987 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+19:18:47.138 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+19:18:47.139 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+19:19:04.000 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+19:19:04.037 [TestNG-tests-1] INFO  com.testCases.LoginTest - Started Chrome
+19:19:07.044 [TestNG-tests-1] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+19:19:07.044 [TestNG-tests-1] INFO  com.testCases.LoginTest - Login Page
+19:19:07.534 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+19:19:07.540 [TestNG-tests-2] INFO  com.testCases.LoginTest - Started firefox
+19:19:08.243 [TestNG-tests-1] INFO  com.testCases.LoginTest - providing login details
+19:19:10.897 [TestNG-tests-1] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+19:19:16.378 [TestNG-tests-2] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+19:19:16.379 [TestNG-tests-2] INFO  com.testCases.LoginTest - Login Page
+19:19:17.738 [TestNG-tests-2] INFO  com.testCases.LoginTest - providing login details
+19:19:18.917 [TestNG-tests-2] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+19:19:47.209 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Started firefox
+19:19:55.199 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+19:19:56.352 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+19:19:56.356 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+19:19:59.189 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+19:20:00.420 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+19:20:00.421 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+19:20:17.284 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+19:20:19.676 [TestNG-tests-1] INFO  com.testCases.LoginTest - Started Chrome
+19:20:20.875 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+19:20:21.039 [TestNG-tests-2] INFO  com.testCases.LoginTest - Started firefox
+19:20:22.967 [TestNG-tests-1] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+19:20:22.969 [TestNG-tests-1] INFO  com.testCases.LoginTest - Login Page
+19:20:24.555 [TestNG-tests-1] INFO  com.testCases.LoginTest - providing login details
+19:20:26.846 [TestNG-tests-1] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+19:20:30.054 [TestNG-tests-2] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+19:20:30.056 [TestNG-tests-2] INFO  com.testCases.LoginTest - Login Page
+19:20:31.141 [TestNG-tests-2] INFO  com.testCases.LoginTest - providing login details
+19:20:32.279 [TestNG-tests-2] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+19:23:42.354 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Started Chrome
+19:23:48.171 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+19:23:49.342 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+19:23:49.345 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+19:23:52.091 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+19:23:53.146 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+19:23:53.148 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+19:24:10.346 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+19:24:12.715 [TestNG-tests-1] INFO  com.testCases.LoginTest - Started Chrome
+19:24:13.578 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+19:24:13.685 [TestNG-tests-2] INFO  com.testCases.LoginTest - Started firefox
+19:24:15.866 [TestNG-tests-1] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+19:24:15.866 [TestNG-tests-1] INFO  com.testCases.LoginTest - Login Page
+19:24:17.330 [TestNG-tests-1] INFO  com.testCases.LoginTest - providing login details
+19:24:19.619 [TestNG-tests-1] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+19:24:22.669 [TestNG-tests-2] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+19:24:22.670 [TestNG-tests-2] INFO  com.testCases.LoginTest - Login Page
+19:24:23.730 [TestNG-tests-2] INFO  com.testCases.LoginTest - providing login details
+19:24:24.840 [TestNG-tests-2] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+19:24:58.494 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Started Chrome
+19:25:04.337 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+19:25:05.553 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+19:25:05.561 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+19:25:08.588 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+19:25:09.814 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+19:25:09.816 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+19:25:26.617 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+19:25:29.296 [TestNG-tests-1] INFO  com.testCases.LoginTest - Started Chrome
+19:25:30.150 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+19:25:30.183 [TestNG-tests-2] INFO  com.testCases.LoginTest - Started firefox
+19:25:35.058 [TestNG-tests-1] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+19:25:35.059 [TestNG-tests-1] INFO  com.testCases.LoginTest - Login Page
+19:25:36.669 [TestNG-tests-1] INFO  com.testCases.LoginTest - providing login details
+19:25:38.449 [TestNG-tests-1] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+19:25:41.245 [TestNG-tests-2] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+19:25:41.246 [TestNG-tests-2] INFO  com.testCases.LoginTest - Login Page
+19:25:42.359 [TestNG-tests-2] INFO  com.testCases.LoginTest - providing login details
+19:25:43.591 [TestNG-tests-2] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+19:26:46.084 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Started firefox
+19:26:52.196 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+19:26:53.266 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+19:26:53.271 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+19:26:56.484 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+19:26:57.748 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+19:26:57.749 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+19:27:14.268 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+19:27:16.590 [TestNG-tests-1] INFO  com.testCases.LoginTest - Started Chrome
+19:27:18.286 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+19:27:18.415 [TestNG-tests-2] INFO  com.testCases.LoginTest - Started firefox
+19:27:20.199 [TestNG-tests-1] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+19:27:20.200 [TestNG-tests-1] INFO  com.testCases.LoginTest - Login Page
+19:27:22.366 [TestNG-tests-1] INFO  com.testCases.LoginTest - providing login details
+19:27:26.726 [TestNG-tests-1] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+19:27:31.481 [TestNG-tests-2] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+19:27:31.481 [TestNG-tests-2] INFO  com.testCases.LoginTest - Login Page
+19:27:32.759 [TestNG-tests-2] INFO  com.testCases.LoginTest - providing login details
+19:27:34.074 [TestNG-tests-2] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+19:29:48.786 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Started Chrome
+19:29:54.973 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+19:29:56.229 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+19:29:56.235 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+19:29:59.045 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+19:30:00.308 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+19:30:00.310 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+19:30:17.242 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+19:30:19.570 [TestNG-tests-1] INFO  com.testCases.LoginTest - Started Chrome
+19:30:20.869 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+19:30:21.014 [TestNG-tests-2] INFO  com.testCases.LoginTest - Started firefox
+19:30:23.335 [TestNG-tests-1] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+19:30:23.336 [TestNG-tests-1] INFO  com.testCases.LoginTest - Login Page
+19:30:24.882 [TestNG-tests-1] INFO  com.testCases.LoginTest - providing login details
+19:30:27.094 [TestNG-tests-1] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+19:30:30.267 [TestNG-tests-2] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+19:30:30.269 [TestNG-tests-2] INFO  com.testCases.LoginTest - Login Page
+19:30:31.368 [TestNG-tests-2] INFO  com.testCases.LoginTest - providing login details
+19:30:32.570 [TestNG-tests-2] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+19:35:34.174 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Started firefox
+19:35:40.664 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+19:35:41.448 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+19:35:41.453 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+19:35:43.221 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+19:35:44.219 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+19:35:44.219 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+19:36:02.168 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+19:36:03.776 [TestNG-tests-1] INFO  com.testCases.LoginTest - Started Chrome
+19:36:04.400 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+19:36:04.431 [TestNG-tests-2] INFO  com.testCases.LoginTest - Started firefox
+19:36:07.296 [TestNG-tests-1] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+19:36:07.298 [TestNG-tests-1] INFO  com.testCases.LoginTest - Login Page
+19:36:08.237 [TestNG-tests-1] INFO  com.testCases.LoginTest - providing login details
+19:36:10.003 [TestNG-tests-1] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+19:36:11.764 [TestNG-tests-2] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+19:36:11.764 [TestNG-tests-2] INFO  com.testCases.LoginTest - Login Page
+19:36:12.734 [TestNG-tests-2] INFO  com.testCases.LoginTest - providing login details
+19:36:13.694 [TestNG-tests-2] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+19:37:30.552 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Started firefox
+19:37:36.188 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+19:37:37.222 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+19:37:37.227 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+19:37:37.370 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Failed
+19:37:37.373 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+19:37:37.392 [TestNG-tests-1] INFO  com.testCases.LoginTest - Started Chrome
+19:37:39.943 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+19:37:39.944 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+19:37:40.494 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Failed
+19:37:40.498 [TestNG-tests-2] INFO  com.testCases.LoginTest - Started firefox
+19:37:40.635 [TestNG-tests-1] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+19:37:40.635 [TestNG-tests-1] INFO  com.testCases.LoginTest - Login Page
+19:37:41.312 [TestNG-tests-1] INFO  com.testCases.LoginTest - providing login details
+19:37:42.642 [TestNG-tests-1] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+19:37:49.962 [TestNG-tests-2] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+19:37:49.962 [TestNG-tests-2] INFO  com.testCases.LoginTest - Login Page
+19:37:50.885 [TestNG-tests-2] INFO  com.testCases.LoginTest - providing login details
+19:37:52.007 [TestNG-tests-2] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+19:38:10.184 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Started firefox
+19:38:15.190 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+19:38:16.005 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+19:38:16.008 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+19:38:18.155 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+19:38:19.174 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+19:38:19.175 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+19:38:36.771 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+19:38:36.820 [TestNG-tests-1] INFO  com.testCases.LoginTest - Started Chrome
+19:38:39.016 [TestNG-tests-1] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+19:38:39.018 [TestNG-tests-1] INFO  com.testCases.LoginTest - Login Page
+19:38:39.431 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+19:38:39.435 [TestNG-tests-2] INFO  com.testCases.LoginTest - Started firefox
+19:38:39.941 [TestNG-tests-1] INFO  com.testCases.LoginTest - providing login details
+19:38:41.313 [TestNG-tests-1] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+19:38:44.969 [TestNG-tests-2] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+19:38:44.969 [TestNG-tests-2] INFO  com.testCases.LoginTest - Login Page
+19:38:46.178 [TestNG-tests-2] INFO  com.testCases.LoginTest - providing login details
+19:38:47.338 [TestNG-tests-2] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+19:39:25.805 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Started Chrome
+19:39:32.459 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+19:39:33.130 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+19:39:33.135 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+19:39:35.269 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+19:39:36.322 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+19:39:36.323 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+19:39:53.732 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+19:39:55.230 [TestNG-tests-1] INFO  com.testCases.LoginTest - Started Chrome
+19:39:56.529 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+19:39:58.458 [TestNG-tests-1] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+19:39:58.459 [TestNG-tests-1] INFO  com.testCases.LoginTest - Login Page
+19:39:58.755 [TestNG-tests-2] INFO  com.testCases.LoginTest - Started firefox
+19:40:04.292 [TestNG-tests-2] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+19:40:04.293 [TestNG-tests-2] INFO  com.testCases.LoginTest - Login Page
+19:40:05.199 [TestNG-tests-2] INFO  com.testCases.LoginTest - providing login details
+19:40:05.943 [TestNG-tests-2] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+19:40:47.778 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Started firefox
+19:40:52.171 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+19:40:53.092 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+19:40:53.097 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+19:40:55.030 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+19:40:55.995 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+19:40:55.995 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+19:41:14.193 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+19:41:14.241 [TestNG-tests-1] INFO  com.testCases.LoginTest - Started Chrome
+19:41:16.210 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+19:41:16.216 [TestNG-tests-2] INFO  com.testCases.LoginTest - Started firefox
+19:41:16.522 [TestNG-tests-1] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+19:41:16.522 [TestNG-tests-1] INFO  com.testCases.LoginTest - Login Page
+19:41:17.199 [TestNG-tests-1] INFO  com.testCases.LoginTest - providing login details
+19:41:18.322 [TestNG-tests-1] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+19:41:22.401 [TestNG-tests-2] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+19:41:22.402 [TestNG-tests-2] INFO  com.testCases.LoginTest - Login Page
+19:41:23.525 [TestNG-tests-2] INFO  com.testCases.LoginTest - providing login details
+19:41:24.987 [TestNG-tests-2] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+19:42:17.094 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Started firefox
+19:42:21.752 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+19:42:22.802 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+19:42:22.805 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+19:42:24.792 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+19:42:25.780 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+19:42:25.782 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+19:42:43.519 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+19:42:44.938 [TestNG-tests-1] INFO  com.testCases.LoginTest - Started Chrome
+19:42:46.012 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+19:42:46.074 [TestNG-tests-2] INFO  com.testCases.LoginTest - Started firefox
+19:42:49.278 [TestNG-tests-1] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+19:42:49.278 [TestNG-tests-1] INFO  com.testCases.LoginTest - Login Page
+19:42:50.957 [TestNG-tests-1] INFO  com.testCases.LoginTest - providing login details
+19:42:52.038 [TestNG-tests-1] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+19:42:53.462 [TestNG-tests-2] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+19:42:53.463 [TestNG-tests-2] INFO  com.testCases.LoginTest - Login Page
+19:42:54.404 [TestNG-tests-2] INFO  com.testCases.LoginTest - providing login details
+19:42:55.394 [TestNG-tests-2] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+19:43:50.597 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Started Chrome
+19:43:56.554 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+19:43:57.780 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+19:43:57.786 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+19:43:59.762 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+19:44:00.968 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+19:44:00.969 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+19:44:18.447 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+19:44:20.151 [TestNG-tests-1] INFO  com.testCases.LoginTest - Started Chrome
+19:44:21.178 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+19:44:21.218 [TestNG-tests-2] INFO  com.testCases.LoginTest - Started firefox
+19:44:22.486 [TestNG-tests-1] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+19:44:22.490 [TestNG-tests-1] INFO  com.testCases.LoginTest - Login Page
+19:44:23.869 [TestNG-tests-1] INFO  com.testCases.LoginTest - providing login details
+19:44:25.319 [TestNG-tests-1] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+19:44:28.541 [TestNG-tests-2] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+19:44:28.541 [TestNG-tests-2] INFO  com.testCases.LoginTest - Login Page
+19:44:29.502 [TestNG-tests-2] INFO  com.testCases.LoginTest - providing login details
+19:44:30.480 [TestNG-tests-2] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+19:47:03.228 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Started Chrome
+19:47:09.070 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+19:47:10.271 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+19:47:10.281 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+19:47:11.967 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+19:47:13.152 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+19:47:13.152 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+19:47:31.029 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+19:47:31.048 [TestNG-tests-1] INFO  com.testCases.LoginTest - Started Chrome
+19:47:33.072 [TestNG-tests-1] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+19:47:33.073 [TestNG-tests-1] INFO  com.testCases.LoginTest - Login Page
+19:47:33.387 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+19:47:33.393 [TestNG-tests-2] INFO  com.testCases.LoginTest - Started firefox
+19:47:33.939 [TestNG-tests-1] INFO  com.testCases.LoginTest - providing login details
+19:47:35.056 [TestNG-tests-1] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+19:47:39.542 [TestNG-tests-2] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+19:47:39.543 [TestNG-tests-2] INFO  com.testCases.LoginTest - Login Page
+19:47:40.514 [TestNG-tests-2] INFO  com.testCases.LoginTest - providing login details
+19:47:41.390 [TestNG-tests-2] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+19:49:28.224 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Started Chrome
+19:49:34.129 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+19:49:35.634 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+19:49:35.641 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+19:49:37.388 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+19:49:38.545 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+19:49:38.546 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+19:49:56.757 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+19:49:56.849 [TestNG-tests-1] INFO  com.testCases.LoginTest - Started Chrome
+19:49:58.790 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+19:49:58.794 [TestNG-tests-2] INFO  com.testCases.LoginTest - Started firefox
+19:49:59.108 [TestNG-tests-1] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+19:49:59.109 [TestNG-tests-1] INFO  com.testCases.LoginTest - Login Page
+19:49:59.955 [TestNG-tests-1] INFO  com.testCases.LoginTest - providing login details
+19:50:02.286 [TestNG-tests-1] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+19:50:07.406 [TestNG-tests-2] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+19:50:07.407 [TestNG-tests-2] INFO  com.testCases.LoginTest - Login Page
+19:50:08.484 [TestNG-tests-2] INFO  com.testCases.LoginTest - providing login details
+19:50:09.468 [TestNG-tests-2] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+19:52:52.610 [TestNG-tests-4] INFO  com.testCases.LoginTest - Started firefox
+19:53:01.721 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+19:53:01.721 [TestNG-tests-2] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+19:53:01.781 [TestNG-tests-2] INFO  com.testCases.LoginTest - Login Page
+19:53:04.960 [TestNG-tests-3] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+19:53:04.964 [TestNG-tests-4] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+19:53:04.965 [TestNG-tests-4] INFO  com.testCases.LoginTest - Login Page
+19:53:05.623 [TestNG-tests-3] INFO  com.testCases.RegistrationTestCase - Failed
+19:53:42.807 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Failed
+19:54:23.295 [TestNG-tests-3] INFO  com.testCases.RegistrationTestCase - Started firefox
+19:54:30.304 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+19:54:30.674 [TestNG-tests-2] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+19:54:30.675 [TestNG-tests-2] INFO  com.testCases.LoginTest - Login Page
+19:54:35.010 [TestNG-tests-4] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+19:54:35.011 [TestNG-tests-4] INFO  com.testCases.LoginTest - Login Page
+19:54:35.029 [TestNG-tests-3] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+19:54:35.649 [TestNG-tests-3] INFO  com.testCases.RegistrationTestCase - Failed
+19:54:51.329 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Failed
+19:55:06.495 [TestNG-tests-2] INFO  com.testCases.LoginTest - providing login details
+19:56:08.253 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Started Chrome
+19:56:11.972 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+19:56:12.768 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+19:56:12.773 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+19:56:15.235 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+19:56:16.272 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+19:56:16.272 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+19:56:33.819 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+19:56:35.903 [TestNG-tests-1] INFO  com.testCases.LoginTest - Started Chrome
+19:56:36.512 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+19:56:36.556 [TestNG-tests-2] INFO  com.testCases.LoginTest - Started firefox
+19:56:37.959 [TestNG-tests-1] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+19:56:37.959 [TestNG-tests-1] INFO  com.testCases.LoginTest - Login Page
+19:56:38.812 [TestNG-tests-1] INFO  com.testCases.LoginTest - providing login details
+19:56:40.405 [TestNG-tests-1] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+19:56:42.771 [TestNG-tests-2] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+19:56:42.771 [TestNG-tests-2] INFO  com.testCases.LoginTest - Login Page
+19:56:43.733 [TestNG-tests-2] INFO  com.testCases.LoginTest - providing login details
+19:56:44.897 [TestNG-tests-2] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+20:02:38.876 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Started Chrome
+20:02:46.756 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+20:02:46.756 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+20:02:47.362 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Failed
+20:02:47.362 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Failed
+20:02:47.408 [TestNG-tests-2] INFO  com.testCases.LoginTest - Started firefox
+20:02:47.408 [TestNG-tests-1] INFO  com.testCases.LoginTest - Started Chrome
+20:02:50.023 [TestNG-tests-1] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+20:02:50.024 [TestNG-tests-1] INFO  com.testCases.LoginTest - Login Page
+20:02:51.321 [TestNG-tests-1] INFO  com.testCases.LoginTest - providing login details
+20:02:52.935 [TestNG-tests-1] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+20:02:53.943 [TestNG-tests-2] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+20:02:53.943 [TestNG-tests-2] INFO  com.testCases.LoginTest - Login Page
+20:02:55.443 [TestNG-tests-2] INFO  com.testCases.LoginTest - providing login details
+20:02:56.367 [TestNG-tests-2] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+20:03:43.674 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Started Chrome
+20:03:49.731 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+20:03:50.908 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+20:03:50.918 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+20:03:53.113 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+20:03:54.079 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+20:03:54.080 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+20:04:12.007 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+20:04:12.063 [TestNG-tests-1] INFO  com.testCases.LoginTest - Started Chrome
+20:04:14.198 [TestNG-tests-1] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+20:04:14.199 [TestNG-tests-1] INFO  com.testCases.LoginTest - Login Page
+20:04:14.311 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+20:04:14.317 [TestNG-tests-2] INFO  com.testCases.LoginTest - Started firefox
+20:04:15.001 [TestNG-tests-1] INFO  com.testCases.LoginTest - providing login details
+20:04:16.925 [TestNG-tests-1] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+20:04:21.064 [TestNG-tests-2] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+20:04:21.065 [TestNG-tests-2] INFO  com.testCases.LoginTest - Login Page
+20:04:21.981 [TestNG-tests-2] INFO  com.testCases.LoginTest - providing login details
+20:04:22.916 [TestNG-tests-2] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+05:55:53.219 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Started Chrome
+05:56:04.542 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+05:56:04.542 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+05:56:05.148 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Failed
+05:56:05.148 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Failed
+05:56:05.165 [TestNG-tests-2] INFO  com.testCases.LoginTest - Started firefox
+05:56:05.165 [TestNG-tests-1] INFO  com.testCases.LoginTest - Started Chrome
+05:56:08.623 [TestNG-tests-1] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+05:56:08.625 [TestNG-tests-1] INFO  com.testCases.LoginTest - Login Page
+05:56:10.208 [TestNG-tests-1] INFO  com.testCases.LoginTest - providing login details
+05:56:12.017 [TestNG-tests-1] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+22:01:55.084 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+22:02:52.513 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+22:04:12.404 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+22:09:12.632 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+22:09:43.020 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+22:10:23.003 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Started Chrome
+22:10:29.045 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+22:10:30.555 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+22:10:30.559 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+22:10:33.158 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+22:10:34.108 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+22:10:34.109 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+22:10:51.350 [TestNG-tests-1] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+22:10:51.555 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+22:10:54.295 [TestNG-tests-2] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+22:10:54.309 [TestNG-tests-2] INFO  com.testCases.LoginTest - Started firefox
+22:10:59.498 [TestNG-tests-2] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+22:10:59.499 [TestNG-tests-2] INFO  com.testCases.LoginTest - Login Page
+22:11:00.723 [TestNG-tests-2] INFO  com.testCases.LoginTest - providing login details
+22:11:01.968 [TestNG-tests-2] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+22:13:56.831 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+22:14:42.883 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+22:16:40.028 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+22:16:44.479 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+22:16:45.453 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+22:17:43.718 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+22:17:47.976 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+22:17:49.101 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+22:17:49.233 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+22:18:44.017 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+22:18:46.326 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+22:18:47.393 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+22:18:47.522 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+22:20:10.563 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+22:20:12.861 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+22:20:13.840 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+22:20:13.972 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+22:22:43.190 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+22:22:47.538 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+22:22:48.473 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+22:22:48.610 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+22:23:26.646 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+22:23:28.834 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+22:23:29.820 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+22:23:29.955 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+22:24:35.654 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+22:24:37.591 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+22:24:38.171 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+22:24:38.296 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+22:25:35.633 [main] INFO  com.testCases.LoginTest - Started Chrome
+22:25:37.593 [main] INFO  com.testCases.LoginTest - mapped to config
+22:25:38.159 [main] INFO  com.testCases.LoginTest - navigated to url
+22:25:38.290 [main] INFO  com.testCases.LoginTest - exit
+22:25:38.677 [main] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+22:25:38.697 [main] INFO  com.testCases.LoginTest - Login Page
+22:25:39.332 [main] INFO  com.testCases.LoginTest - providing login details
+22:25:40.247 [main] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+22:26:44.291 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+22:26:46.300 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+22:26:46.872 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+22:26:47.010 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+22:28:02.861 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+22:28:05.255 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+22:28:05.908 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+22:28:06.046 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+22:29:41.452 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+22:29:44.190 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+22:29:44.764 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+22:29:44.896 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+22:31:13.145 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+22:31:15.058 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+22:31:15.703 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+22:31:15.840 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+22:33:45.006 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+22:33:49.436 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+22:33:50.017 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+22:33:50.146 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+22:39:14.666 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+22:39:17.170 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+22:39:17.832 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+22:39:17.977 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+22:43:34.458 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+22:43:36.532 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+22:43:37.198 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+22:43:37.331 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+22:45:05.244 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+22:45:07.269 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+22:45:07.864 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+22:45:08.004 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+22:45:31.040 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+22:45:33.109 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+22:45:33.859 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+22:45:33.987 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+22:46:11.438 [main] INFO  com.testCases.RegistrationTestCase - Started Chrome
+22:46:14.434 [main] INFO  com.testCases.RegistrationTestCase - mapped to config
+22:46:15.297 [main] INFO  com.testCases.RegistrationTestCase - navigated to url
+22:46:15.434 [main] INFO  com.testCases.RegistrationTestCase - exit
+22:46:15.894 [main] INFO  com.testCases.RegistrationTestCase - ***************************Starting TC_01***************************
+22:46:16.486 [main] INFO  com.testCases.RegistrationTestCase - IN to Register Page
+22:46:16.490 [main] INFO  com.testCases.RegistrationTestCase - Entering Credentials
+22:46:37.074 [main] INFO  com.testCases.RegistrationTestCase - capturing the  Title
+22:49:30.814 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+22:49:33.395 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+22:49:34.285 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+22:49:34.422 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+22:52:38.604 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+22:52:42.534 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+22:52:43.089 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+22:52:43.227 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+22:58:15.190 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+22:58:17.275 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+22:58:18.024 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+22:58:18.148 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+22:58:38.837 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+22:58:42.979 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+22:58:43.572 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+22:58:43.712 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+23:00:44.254 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+23:00:46.208 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+23:00:46.789 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+23:00:46.923 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+23:02:33.405 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+23:02:37.130 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+23:02:38.130 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+23:02:38.259 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+23:03:04.625 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+23:03:08.529 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+23:03:09.114 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+23:03:09.258 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+23:11:58.092 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+23:12:00.229 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+23:12:00.840 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+23:12:00.978 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+23:14:15.405 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+23:14:17.390 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+23:14:17.970 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+23:14:18.102 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+23:15:16.548 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+23:15:18.484 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+23:15:19.093 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+23:15:19.235 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+23:19:34.126 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+23:19:36.227 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+23:19:36.856 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+23:19:36.989 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+23:20:26.194 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+23:20:28.973 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+23:20:29.549 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+23:20:29.676 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+23:22:38.750 [main] INFO  com.testCases.LoginTest - Started Chrome
+23:22:40.644 [main] INFO  com.testCases.LoginTest - mapped to config
+23:22:41.211 [main] INFO  com.testCases.LoginTest - navigated to url
+23:22:41.341 [main] INFO  com.testCases.LoginTest - exit
+23:22:41.745 [main] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+23:22:41.771 [main] INFO  com.testCases.LoginTest - Login Page
+23:22:42.367 [main] INFO  com.testCases.LoginTest - providing login details
+23:22:43.268 [main] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+23:26:50.363 [main] INFO  com.testCases.LoginTest - Started Chrome
+23:26:54.417 [main] INFO  com.testCases.LoginTest - mapped to config
+23:26:54.989 [main] INFO  com.testCases.LoginTest - navigated to url
+23:26:55.116 [main] INFO  com.testCases.LoginTest - exit
+23:26:55.444 [main] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+23:26:55.475 [main] INFO  com.testCases.LoginTest - Login Page
+23:26:56.079 [main] INFO  com.testCases.LoginTest - providing login details
+23:27:31.971 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+23:27:33.953 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+23:27:34.510 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+23:27:34.636 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+23:38:00.026 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+23:38:02.881 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+23:38:03.899 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+23:38:04.033 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+23:38:33.752 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+23:38:36.157 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+23:38:37.160 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+23:38:37.285 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+23:42:14.871 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+23:42:17.398 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+23:42:18.576 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+23:42:18.731 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+23:44:57.528 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+23:44:59.548 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+23:45:00.113 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+23:45:00.246 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+23:46:22.538 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+23:46:26.625 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+23:46:27.208 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+23:46:27.336 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+23:48:31.988 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+23:48:33.982 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+23:48:34.572 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+23:48:34.695 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+23:50:12.556 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+23:50:14.476 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+23:50:15.052 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+23:50:15.178 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+23:51:04.172 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+23:51:06.169 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+23:51:06.726 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+23:51:06.854 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+23:52:38.629 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+23:52:40.632 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+23:52:41.218 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+23:52:41.347 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+23:54:45.337 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+23:54:47.646 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+23:54:48.305 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+23:54:48.437 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+23:56:20.076 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+23:56:22.066 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+23:56:22.666 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+23:56:22.788 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+23:57:32.993 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+23:57:35.691 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+23:57:36.261 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+23:57:36.389 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+23:58:31.119 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+23:58:33.705 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+23:58:34.393 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+23:58:34.516 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+23:59:59.846 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+00:00:02.553 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+00:00:03.254 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+00:00:03.383 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+00:01:00.501 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+00:01:02.550 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+00:01:03.139 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+00:01:03.275 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+00:02:27.286 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+00:02:29.337 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+00:02:29.908 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+00:02:30.032 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+00:04:34.394 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+00:04:36.916 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+00:04:37.533 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+00:04:37.664 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+00:09:46.577 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+00:09:48.888 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+00:09:49.533 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+00:09:49.655 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+00:09:50.883 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+00:09:51.464 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+00:09:51.788 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+00:09:52.288 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+00:09:52.556 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+00:09:53.031 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+00:14:15.248 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+00:14:19.282 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+00:14:20.648 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+00:14:20.776 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+00:14:23.227 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+00:14:24.052 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+00:14:24.805 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+00:14:25.590 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+00:14:25.854 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+00:14:26.399 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+00:14:26.447 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+00:14:26.508 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+00:14:26.621 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+00:14:27.203 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+00:14:27.987 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+00:14:28.342 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+00:14:29.018 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+00:18:25.793 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+00:18:28.008 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+00:18:28.567 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+00:18:28.693 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+00:18:30.141 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+00:18:31.174 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+00:18:31.508 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+00:18:31.925 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+00:18:32.161 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+00:18:32.626 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+00:22:51.656 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+00:22:54.612 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+00:22:55.187 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+00:22:55.312 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+00:22:56.412 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+00:22:57.356 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+00:23:17.956 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+00:23:18.465 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+00:23:38.793 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+00:23:39.259 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+00:29:12.119 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+00:29:14.992 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+00:29:15.620 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+00:29:15.757 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+00:29:17.029 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+00:29:17.966 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+00:29:23.510 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+00:29:24.024 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+00:29:29.309 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+00:29:29.879 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+00:34:22.284 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+00:34:24.524 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+00:34:25.158 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+00:34:25.284 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+00:34:27.360 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+00:34:27.995 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+00:34:28.349 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+00:34:28.962 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+00:34:29.405 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+00:34:30.158 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+00:38:17.000 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+00:38:21.649 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+00:38:22.483 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+00:38:22.617 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+00:38:24.360 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+00:38:25.160 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+00:38:25.769 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+00:38:26.532 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+00:38:26.841 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+00:38:27.354 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+00:40:38.225 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started firefox
+00:40:41.087 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+00:40:42.217 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+00:40:42.344 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+00:40:45.082 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+00:40:45.624 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+00:40:46.152 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+00:40:46.785 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+00:40:46.855 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+00:40:47.006 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+00:40:47.222 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+00:40:47.851 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+00:40:47.969 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+00:40:48.459 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+00:43:53.569 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started firefox
+00:43:55.778 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+00:43:56.622 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+00:43:56.751 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+00:43:59.650 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+00:44:00.343 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+00:44:00.355 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+00:44:01.853 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+00:44:01.911 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+00:44:01.985 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+00:44:02.043 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+00:44:02.676 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+00:44:02.721 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+00:44:03.306 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+00:44:34.328 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+00:44:38.398 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+00:44:38.957 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+00:44:39.081 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+00:44:40.457 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+00:44:41.480 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+00:44:41.812 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+00:44:42.284 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+00:44:42.550 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+00:44:42.997 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+00:44:43.928 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started firefox
+00:44:47.499 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+00:44:48.136 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+00:44:48.154 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+00:44:48.225 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+00:44:49.000 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+00:44:49.383 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+00:44:50.038 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+00:44:50.368 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+00:44:51.021 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+00:57:43.122 [main] INFO  com.testCases.LoginTest - Started Chrome
+00:57:47.358 [main] INFO  com.testCases.LoginTest - mapped to config
+00:57:47.941 [main] INFO  com.testCases.LoginTest - navigated to url
+00:57:48.073 [main] INFO  com.testCases.LoginTest - exit
+00:57:48.377 [main] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+00:57:48.411 [main] INFO  com.testCases.LoginTest - Login Page
+00:57:49.130 [main] INFO  com.testCases.LoginTest - providing login details
+00:58:43.951 [main] INFO  com.testCases.LoginTest - Started Chrome
+00:58:46.900 [main] INFO  com.testCases.LoginTest - mapped to config
+00:58:47.486 [main] INFO  com.testCases.LoginTest - navigated to url
+00:58:47.616 [main] INFO  com.testCases.LoginTest - exit
+00:58:48.194 [main] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+00:58:48.233 [main] INFO  com.testCases.LoginTest - Login Page
+00:58:49.259 [main] INFO  com.testCases.LoginTest - providing login details
+22:32:08.496 [main] INFO  com.testCases.LoginTest - Started Chrome
+22:32:12.925 [main] INFO  com.testCases.LoginTest - mapped to config
+22:32:17.657 [main] INFO  com.testCases.LoginTest - navigated to url
+22:32:17.787 [main] INFO  com.testCases.LoginTest - exit
+22:32:18.354 [main] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+22:32:18.408 [main] INFO  com.testCases.LoginTest - Login Page
+22:32:19.529 [main] INFO  com.testCases.LoginTest - providing login details
+22:40:53.402 [main] INFO  com.testCases.LoginTest - Started Chrome
+22:40:55.303 [main] INFO  com.testCases.LoginTest - mapped to config
+22:40:55.884 [main] INFO  com.testCases.LoginTest - navigated to url
+22:40:56.014 [main] INFO  com.testCases.LoginTest - exit
+22:40:56.350 [main] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+22:40:56.403 [main] INFO  com.testCases.LoginTest - Login Page
+22:40:57.011 [main] INFO  com.testCases.LoginTest - providing login details
+22:42:51.582 [main] INFO  com.testCases.LoginTest - Started Chrome
+22:42:55.566 [main] INFO  com.testCases.LoginTest - mapped to config
+22:42:56.136 [main] INFO  com.testCases.LoginTest - navigated to url
+22:42:56.262 [main] INFO  com.testCases.LoginTest - exit
+22:42:56.659 [main] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+22:42:56.685 [main] INFO  com.testCases.LoginTest - Login Page
+22:42:57.237 [main] INFO  com.testCases.LoginTest - providing login details
+22:42:57.563 [main] INFO  com.testCases.LoginTest - Clicked on login
+22:45:00.395 [main] INFO  com.testCases.LoginTest - Started Chrome
+22:45:02.343 [main] INFO  com.testCases.LoginTest - mapped to config
+22:45:03.095 [main] INFO  com.testCases.LoginTest - navigated to url
+22:45:03.231 [main] INFO  com.testCases.LoginTest - exit
+22:45:03.553 [main] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+22:45:03.581 [main] INFO  com.testCases.LoginTest - Login Page
+22:45:04.129 [main] INFO  com.testCases.LoginTest - providing login details
+22:45:04.445 [main] INFO  com.testCases.LoginTest - Clicked on login
+22:50:25.443 [main] INFO  com.testCases.LoginTest - Started Chrome
+22:50:27.487 [main] INFO  com.testCases.LoginTest - mapped to config
+22:50:28.027 [main] INFO  com.testCases.LoginTest - navigated to url
+22:50:28.149 [main] INFO  com.testCases.LoginTest - exit
+22:50:28.461 [main] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+22:50:28.486 [main] INFO  com.testCases.LoginTest - Login Page
+22:50:29.058 [main] INFO  com.testCases.LoginTest - providing login details
+22:50:29.386 [main] INFO  com.testCases.LoginTest - Clicked on login
+22:50:30.010 [main] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+20:54:12.109 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+20:54:16.561 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+20:54:55.477 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+20:54:57.910 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+20:55:08.163 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+20:55:08.299 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+20:55:10.924 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+20:55:12.077 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+20:55:42.749 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+20:55:43.604 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+20:56:14.116 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+20:56:15.047 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+20:56:48.119 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started firefox
+20:56:54.070 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+20:56:54.871 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+20:56:54.880 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+20:56:54.952 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+20:56:56.101 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+20:57:26.491 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+20:57:27.586 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+20:57:57.998 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+20:57:59.143 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+21:01:46.519 [main] INFO  com.testCases.LoginTest - Started Chrome
+21:01:49.162 [main] INFO  com.testCases.LoginTest - mapped to config
+21:01:50.146 [main] INFO  com.testCases.LoginTest - navigated to url
+21:01:50.280 [main] INFO  com.testCases.LoginTest - exit
+21:01:50.699 [main] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+21:01:50.765 [main] INFO  com.testCases.LoginTest - Login Page
+21:01:51.763 [main] INFO  com.testCases.LoginTest - providing login details
+21:01:52.183 [main] INFO  com.testCases.LoginTest - Clicked on login
+21:01:53.443 [main] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+21:07:06.221 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+21:07:08.208 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+21:07:09.030 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+21:07:09.160 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+21:07:11.120 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+21:07:11.879 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+21:07:11.940 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+21:07:12.924 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+21:07:12.978 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+21:07:13.070 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+21:08:23.911 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+21:08:26.478 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+21:08:26.549 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+21:08:27.369 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+21:08:28.893 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+21:14:22.329 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started firefox
+21:14:24.707 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+21:14:25.866 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+21:14:26.008 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+21:14:27.935 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+21:14:28.716 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+21:14:28.904 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+21:14:30.270 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+21:14:30.294 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+21:14:30.398 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+21:15:00.378 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+21:15:01.075 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+21:15:01.126 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+21:15:01.685 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+21:15:02.610 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+21:15:54.601 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started firefox
+21:15:57.316 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+21:15:58.415 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+21:15:58.553 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+21:16:00.468 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+21:16:01.557 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+21:16:01.717 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+21:16:02.460 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+21:16:02.487 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+21:16:02.591 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+21:16:02.678 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+21:16:03.208 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+21:16:03.306 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+21:16:03.812 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+21:16:04.654 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+21:16:47.976 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started firefox
+21:16:51.884 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+21:16:52.658 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+21:16:52.812 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+21:16:55.836 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+21:16:56.768 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+21:16:56.882 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+21:16:57.599 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+21:16:57.612 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+21:16:57.668 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+21:17:27.690 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+21:17:28.291 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+21:17:28.350 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+21:17:28.897 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+21:17:29.783 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+21:17:47.736 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started firefox
+21:17:50.286 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+21:17:51.251 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+21:17:51.395 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+21:17:54.289 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+21:17:54.845 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+21:17:55.122 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+21:17:56.023 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+21:17:56.054 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+21:17:56.155 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+21:18:26.177 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+21:18:26.935 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+21:18:27.042 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+21:18:27.579 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+21:18:28.368 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+21:19:51.222 [TestNG-test=chrome-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+21:19:53.828 [TestNG-test=chrome-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+21:19:54.376 [TestNG-test=chrome-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+21:19:54.510 [TestNG-test=chrome-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+21:19:56.046 [TestNG-test=chrome-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+21:19:56.940 [TestNG-test=chrome-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+21:20:27.271 [TestNG-test=chrome-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+21:20:27.690 [TestNG-test=chrome-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+21:20:57.965 [TestNG-test=chrome-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+21:20:58.437 [TestNG-test=chrome-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+21:21:29.998 [TestNG-test=firefox-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started firefox
+21:21:33.297 [TestNG-test=firefox-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+21:21:34.021 [TestNG-test=firefox-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+21:21:34.029 [TestNG-test=firefox-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+21:21:34.093 [TestNG-test=firefox-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+21:21:34.776 [TestNG-test=firefox-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+21:22:05.151 [TestNG-test=firefox-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+21:22:05.913 [TestNG-test=firefox-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+21:22:36.272 [TestNG-test=firefox-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+21:22:36.900 [TestNG-test=firefox-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+21:25:01.552 [TestNG-test=chrome-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+21:25:05.564 [TestNG-test=chrome-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+21:25:06.748 [TestNG-test=chrome-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+21:25:06.901 [TestNG-test=chrome-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+21:25:09.410 [TestNG-test=chrome-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+21:25:10.471 [TestNG-test=chrome-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+21:25:21.036 [TestNG-test=chrome-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+21:25:22.016 [TestNG-test=chrome-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+21:25:32.528 [TestNG-test=chrome-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+21:25:33.809 [TestNG-test=chrome-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+21:25:46.757 [TestNG-test=firefox-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started firefox
+21:25:50.512 [TestNG-test=firefox-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+21:25:51.149 [TestNG-test=firefox-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+21:25:51.158 [TestNG-test=firefox-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+21:25:51.232 [TestNG-test=firefox-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+21:25:52.195 [TestNG-test=firefox-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+21:26:02.554 [TestNG-test=firefox-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+21:26:03.168 [TestNG-test=firefox-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+21:26:13.487 [TestNG-test=firefox-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+21:26:14.073 [TestNG-test=firefox-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+21:28:00.886 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started firefox
+21:28:03.372 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+21:28:04.796 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+21:28:04.943 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+21:28:07.386 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+21:28:08.252 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+21:28:08.800 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+21:28:09.270 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+21:28:09.294 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+21:28:09.374 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+21:28:09.523 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+21:28:10.040 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+21:28:10.122 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+21:28:10.631 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+21:28:11.312 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+21:31:14.719 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+21:31:16.565 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+21:31:17.128 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+21:31:17.260 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+21:31:18.323 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+21:31:18.899 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+21:31:49.274 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+21:31:49.709 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+21:32:19.987 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+21:32:20.456 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+21:32:52.127 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started firefox
+21:32:55.057 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+21:32:55.665 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+21:32:55.680 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+21:32:55.749 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+21:32:56.499 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+21:33:26.861 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+21:33:27.650 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+21:33:58.022 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+21:33:58.621 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+21:38:14.153 [main] INFO  com.testCases.LoginTest - Started Chrome
+21:38:16.774 [main] INFO  com.testCases.LoginTest - mapped to config
+21:38:17.572 [main] INFO  com.testCases.LoginTest - navigated to url
+21:38:17.706 [main] INFO  com.testCases.LoginTest - exit
+21:38:18.001 [main] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+21:38:18.038 [main] INFO  com.testCases.LoginTest - Login Page
+21:38:18.625 [main] INFO  com.testCases.LoginTest - providing login details
+21:38:18.912 [main] INFO  com.testCases.LoginTest - Clicked on login
+21:38:19.489 [main] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
