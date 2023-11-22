@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="6" passed="4" failed="2" skipped="0">
+<testng-results ignored="0" total="2" passed="1" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-11-20T21:31:14 IST" name="Suite" finished-at="2023-11-20T21:34:02 IST" duration-ms="167955">
+  <suite started-at="2023-11-21T23:16:16 IST" name="Suite" finished-at="2023-11-21T23:16:25 IST" duration-ms="9250">
     <groups>
+      <group name="sanity">
+        <method signature="LoginTest.LoginTestCase()[pri:0, instance:com.testCases.LoginTest@1e800aaa]" name="LoginTestCase" class="com.testCases.LoginTest"/>
+        <method signature="LoginTest.LoginTestCase()[pri:0, instance:com.testCases.LoginTest@38afe297]" name="LoginTestCase" class="com.testCases.LoginTest"/>
+      </group> <!-- sanity -->
+      <group name="master">
+        <method signature="LoginTest.LoginTestCase()[pri:0, instance:com.testCases.LoginTest@1e800aaa]" name="LoginTestCase" class="com.testCases.LoginTest"/>
+        <method signature="LoginTest.LoginTestCase()[pri:0, instance:com.testCases.LoginTest@38afe297]" name="LoginTestCase" class="com.testCases.LoginTest"/>
+      </group> <!-- master -->
     </groups>
-    <test started-at="2023-11-20T21:31:14 IST" name="chrome" finished-at="2023-11-20T21:32:51 IST" duration-ms="97689">
-      <class name="com.testCases.TC_003_LoginDataDrivenTest">
-        <test-method is-config="true" signature="Setup(java.lang.String)[pri:0, instance:com.testCases.TC_003_LoginDataDrivenTest@139982de]" started-at="2023-11-20T21:31:14 IST" name="Setup" finished-at="2023-11-20T21:31:17 IST" duration-ms="3181" status="PASS">
+    <test started-at="2023-11-21T23:16:16 IST" name="chrome" finished-at="2023-11-21T23:16:25 IST" duration-ms="9217">
+      <class name="com.testCases.LoginTest">
+        <test-method is-config="true" signature="Setup(java.lang.String)[pri:0, instance:com.testCases.LoginTest@1e800aaa]" started-at="2023-11-21T23:16:16 IST" name="Setup" finished-at="2023-11-21T23:16:20 IST" duration-ms="4211" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,116 +26,19 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method signature="dataDrivenTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.testCases.TC_003_LoginDataDrivenTest@139982de]" started-at="2023-11-20T21:31:18 IST" name="dataDrivenTest" data-provider="LoginData" finished-at="2023-11-20T21:31:49 IST" duration-ms="31154" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[test@gmail.com]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[123]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[invalid]]>
-              </value>
-            </param>
-          </params>
+        <test-method signature="LoginTestCase()[pri:0, instance:com.testCases.LoginTest@1e800aaa]" started-at="2023-11-21T23:16:20 IST" name="LoginTestCase" finished-at="2023-11-21T23:16:23 IST" duration-ms="2870" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- dataDrivenTest -->
-        <test-method signature="dataDrivenTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.testCases.TC_003_LoginDataDrivenTest@139982de]" started-at="2023-11-20T21:31:49 IST" name="dataDrivenTest" data-provider="LoginData" finished-at="2023-11-20T21:32:19 IST" duration-ms="30710" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[user@gmail.com]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[124]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[invalid]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- dataDrivenTest -->
-        <test-method signature="dataDrivenTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.testCases.TC_003_LoginDataDrivenTest@139982de]" started-at="2023-11-20T21:32:19 IST" name="dataDrivenTest" data-provider="LoginData" finished-at="2023-11-20T21:32:51 IST" duration-ms="31320" status="FAIL">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[YRHlpUA@gmail.com]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[XfKNnLt@)!]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[valid]]>
-              </value>
-            </param>
-          </params>
-          <exception class="java.lang.AssertionError">
-            <message>
-              <![CDATA[null]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: null
-at org.testng.Assert.fail(Assert.java:111)
-at org.testng.Assert.fail(Assert.java:116)
-at com.testCases.TC_003_LoginDataDrivenTest.dataDrivenTest(TC_003_LoginDataDrivenTest.java:50)
-at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
-at java.base/java.lang.reflect.Method.invoke(Method.java:578)
-at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
-at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
-at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
-at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
-at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
-at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-at org.testng.TestRunner.privateRun(TestRunner.java:848)
-at org.testng.TestRunner.run(TestRunner.java:621)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
-at org.testng.SuiteRunner.run(SuiteRunner.java:336)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
-at org.testng.TestNG.runSuites(TestNG.java:1114)
-at org.testng.TestNG.run(TestNG.java:1082)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-]]>
-            </full-stacktrace>
-          </exception> <!-- java.lang.AssertionError -->
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- dataDrivenTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.testCases.TC_003_LoginDataDrivenTest@139982de]" started-at="2023-11-20T21:32:51 IST" name="tearDown" finished-at="2023-11-20T21:32:51 IST" duration-ms="321" status="PASS">
+        </test-method> <!-- LoginTestCase -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.testCases.LoginTest@1e800aaa]" started-at="2023-11-21T23:16:23 IST" name="tearDown" finished-at="2023-11-21T23:16:25 IST" duration-ms="2037" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- com.testCases.TC_003_LoginDataDrivenTest -->
+      </class> <!-- com.testCases.LoginTest -->
     </test> <!-- chrome -->
-    <test started-at="2023-11-20T21:32:52 IST" name="firefox" finished-at="2023-11-20T21:34:02 IST" duration-ms="69890">
-      <class name="com.testCases.TC_003_LoginDataDrivenTest">
-        <test-method is-config="true" signature="Setup(java.lang.String)[pri:0, instance:com.testCases.TC_003_LoginDataDrivenTest@fa4c865]" started-at="2023-11-20T21:32:52 IST" name="Setup" finished-at="2023-11-20T21:32:55 IST" duration-ms="3554" status="PASS">
+    <test started-at="2023-11-21T23:16:16 IST" name="firefox" finished-at="2023-11-21T23:16:25 IST" duration-ms="9250">
+      <class name="com.testCases.LoginTest">
+        <test-method is-config="true" signature="Setup(java.lang.String)[pri:0, instance:com.testCases.LoginTest@38afe297]" started-at="2023-11-21T23:16:16 IST" name="Setup" finished-at="2023-11-21T23:16:24 IST" duration-ms="7851" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -138,66 +49,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method signature="dataDrivenTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.testCases.TC_003_LoginDataDrivenTest@fa4c865]" started-at="2023-11-20T21:32:55 IST" name="dataDrivenTest" data-provider="LoginData" finished-at="2023-11-20T21:33:26 IST" duration-ms="31113" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[test@gmail.com]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[123]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[invalid]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- dataDrivenTest -->
-        <test-method signature="dataDrivenTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.testCases.TC_003_LoginDataDrivenTest@fa4c865]" started-at="2023-11-20T21:33:26 IST" name="dataDrivenTest" data-provider="LoginData" finished-at="2023-11-20T21:33:58 IST" duration-ms="31158" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[user@gmail.com]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[124]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[invalid]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- dataDrivenTest -->
-        <test-method signature="dataDrivenTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.testCases.TC_003_LoginDataDrivenTest@fa4c865]" started-at="2023-11-20T21:33:58 IST" name="dataDrivenTest" data-provider="LoginData" finished-at="2023-11-20T21:33:59 IST" duration-ms="1269" status="FAIL">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[YRHlpUA@gmail.com]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[XfKNnLt@)!]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[valid]]>
-              </value>
-            </param>
-          </params>
+        <test-method signature="LoginTestCase()[pri:0, instance:com.testCases.LoginTest@38afe297]" started-at="2023-11-21T23:16:24 IST" name="LoginTestCase" finished-at="2023-11-21T23:16:25 IST" duration-ms="1336" status="FAIL">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[null]]>
@@ -206,7 +58,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
               <![CDATA[java.lang.AssertionError: null
 at org.testng.Assert.fail(Assert.java:111)
 at org.testng.Assert.fail(Assert.java:116)
-at com.testCases.TC_003_LoginDataDrivenTest.dataDrivenTest(TC_003_LoginDataDrivenTest.java:50)
+at com.testCases.LoginTest.LoginTestCase(LoginTest.java:33)
 at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
 at java.base/java.lang.reflect.Method.invoke(Method.java:578)
 at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
@@ -221,29 +73,72 @@ at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
 at org.testng.TestRunner.privateRun(TestRunner.java:848)
 at org.testng.TestRunner.run(TestRunner.java:621)
 at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
-at org.testng.SuiteRunner.run(SuiteRunner.java:336)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
-at org.testng.TestNG.runSuites(TestNG.java:1114)
-at org.testng.TestNG.run(TestNG.java:1082)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:481)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:58)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+at java.base/java.lang.Thread.run(Thread.java:1623)
 ]]>
             </full-stacktrace>
           </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- dataDrivenTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.testCases.TC_003_LoginDataDrivenTest@fa4c865]" started-at="2023-11-20T21:33:59 IST" name="tearDown" finished-at="2023-11-20T21:34:02 IST" duration-ms="2674" status="PASS">
+        </test-method> <!-- LoginTestCase -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.testCases.LoginTest@38afe297]" started-at="2023-11-21T23:16:25 IST" name="tearDown" finished-at="2023-11-21T23:16:25 IST" duration-ms="5" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchSessionException">
+            <message>
+              <![CDATA[Tried to run command without establishing a connection
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [664e2dfa-8b95-42cc-a7d0-eac9253b098a, setTimeout {implicit=30000}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 118.0.2, moz:accessibilityChecks: false, moz:buildID: 20231009140911, moz:debuggerAddress: 127.0.0.1:1325, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 16332, moz:profile: C:\Users\SAI\AppData\Local\..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://127.0.0.1:1325/devtool..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 664e2dfa-8b95-42cc-a7d0-eac9253b098a]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchSessionException: Tried to run command without establishing a connection
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [664e2dfa-8b95-42cc-a7d0-eac9253b098a, setTimeout {implicit=30000}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 118.0.2, moz:accessibilityChecks: false, moz:buildID: 20231009140911, moz:debuggerAddress: 127.0.0.1:1325, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 16332, moz:profile: C:\Users\SAI\AppData\Local\..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://127.0.0.1:1325/devtool..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 664e2dfa-8b95-42cc-a7d0-eac9253b098a
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:607)
+at org.openqa.selenium.remote.RemoteWebDriver$RemoteWebDriverOptions$RemoteTimeouts.implicitlyWait(RemoteWebDriver.java:1022)
+at com.testBase.BaseTestCase.tearDown(BaseTestCase.java:71)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:390)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:325)
+at org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:663)
+at org.testng.TestRunner.afterRun(TestRunner.java:933)
+at org.testng.TestRunner.run(TestRunner.java:624)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:481)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:58)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+at java.base/java.lang.Thread.run(Thread.java:1623)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchSessionException -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- com.testCases.TC_003_LoginDataDrivenTest -->
+      </class> <!-- com.testCases.LoginTest -->
     </test> <!-- firefox -->
   </suite> <!-- Suite -->
 </testng-results>

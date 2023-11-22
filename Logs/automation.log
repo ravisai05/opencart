@@ -1495,3 +1495,116 @@
 21:38:18.625 [main] INFO  com.testCases.LoginTest - providing login details
 21:38:18.912 [main] INFO  com.testCases.LoginTest - Clicked on login
 21:38:19.489 [main] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+23:06:56.762 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started firefox
+23:07:00.489 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+23:07:03.712 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+23:07:05.713 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+23:07:05.749 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+23:07:05.826 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+23:07:05.843 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+23:07:07.473 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+23:07:07.474 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+23:07:08.142 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+23:07:08.199 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+23:07:08.729 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+23:07:08.795 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+23:08:28.727 [TestNG-tests-1] INFO  com.testCases.LoginTest - Started Chrome
+23:08:30.956 [TestNG-tests-1] INFO  com.testCases.LoginTest - mapped to config
+23:08:31.528 [TestNG-tests-1] INFO  com.testCases.LoginTest - navigated to url
+23:08:31.658 [TestNG-tests-1] INFO  com.testCases.LoginTest - exit
+23:08:31.958 [TestNG-tests-1] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+23:08:31.988 [TestNG-tests-1] INFO  com.testCases.LoginTest - Login Page
+23:08:32.741 [TestNG-tests-1] INFO  com.testCases.LoginTest - providing login details
+23:08:33.024 [TestNG-tests-1] INFO  com.testCases.LoginTest - Clicked on login
+23:08:33.747 [TestNG-tests-1] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+23:09:20.294 [TestNG-tests-1] INFO  com.testCases.LoginTest - Started Chrome
+23:09:22.814 [TestNG-tests-1] INFO  com.testCases.LoginTest - mapped to config
+23:09:23.701 [TestNG-tests-1] INFO  com.testCases.LoginTest - navigated to url
+23:09:23.841 [TestNG-tests-1] INFO  com.testCases.LoginTest - exit
+23:09:24.456 [TestNG-tests-1] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+23:09:24.531 [TestNG-tests-1] INFO  com.testCases.LoginTest - Login Page
+23:09:25.446 [TestNG-tests-1] INFO  com.testCases.LoginTest - providing login details
+23:09:25.777 [TestNG-tests-1] INFO  com.testCases.LoginTest - Clicked on login
+23:09:26.436 [TestNG-tests-1] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+23:09:26.976 [TestNG-tests-2] INFO  com.testCases.LoginTest - mapped to config
+23:09:27.726 [TestNG-tests-2] INFO  com.testCases.LoginTest - navigated to url
+23:09:27.740 [TestNG-tests-2] INFO  com.testCases.LoginTest - exit
+23:09:27.743 [TestNG-tests-2] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+23:09:27.744 [TestNG-tests-2] INFO  com.testCases.LoginTest - Login Page
+23:09:28.469 [TestNG-tests-2] INFO  com.testCases.LoginTest - providing login details
+23:09:29.170 [TestNG-tests-2] INFO  com.testCases.LoginTest - Clicked on login
+23:09:29.236 [TestNG-tests-2] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+23:10:15.713 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started firefox
+23:10:19.771 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+23:10:20.458 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+23:10:20.583 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+23:10:20.624 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+23:10:21.738 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+23:10:21.748 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+23:10:22.626 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+23:10:22.790 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+23:10:23.339 [TestNG-tests-2] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+23:10:23.404 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+23:10:23.987 [TestNG-tests-1] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+23:11:02.026 [TestNG-tests-2] INFO  com.testCases.LoginTest - Started firefox
+23:11:04.181 [TestNG-tests-1] INFO  com.testCases.LoginTest - mapped to config
+23:11:05.005 [TestNG-tests-1] INFO  com.testCases.LoginTest - navigated to url
+23:11:05.149 [TestNG-tests-1] INFO  com.testCases.LoginTest - exit
+23:11:05.920 [TestNG-tests-1] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+23:11:05.994 [TestNG-tests-1] INFO  com.testCases.LoginTest - Login Page
+23:11:06.652 [TestNG-tests-1] INFO  com.testCases.LoginTest - providing login details
+23:11:07.086 [TestNG-tests-1] INFO  com.testCases.LoginTest - Clicked on login
+23:11:07.568 [TestNG-tests-2] INFO  com.testCases.LoginTest - mapped to config
+23:11:07.862 [TestNG-tests-1] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+23:11:08.259 [TestNG-tests-2] INFO  com.testCases.LoginTest - navigated to url
+23:11:08.271 [TestNG-tests-2] INFO  com.testCases.LoginTest - exit
+23:11:08.278 [TestNG-tests-2] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+23:11:08.279 [TestNG-tests-2] INFO  com.testCases.LoginTest - Login Page
+23:11:38.580 [TestNG-tests-1] INFO  com.testCases.LoginTest - Started Chrome
+23:11:40.772 [TestNG-tests-1] INFO  com.testCases.LoginTest - mapped to config
+23:11:41.568 [TestNG-tests-1] INFO  com.testCases.LoginTest - navigated to url
+23:11:41.704 [TestNG-tests-1] INFO  com.testCases.LoginTest - exit
+23:11:42.545 [TestNG-tests-1] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+23:11:42.591 [TestNG-tests-1] INFO  com.testCases.LoginTest - Login Page
+23:11:43.240 [TestNG-tests-1] INFO  com.testCases.LoginTest - providing login details
+23:11:43.711 [TestNG-tests-1] INFO  com.testCases.LoginTest - Clicked on login
+23:11:44.335 [TestNG-tests-2] INFO  com.testCases.LoginTest - mapped to config
+23:11:44.649 [TestNG-tests-1] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+23:11:45.259 [TestNG-tests-2] INFO  com.testCases.LoginTest - navigated to url
+23:11:45.292 [TestNG-tests-2] INFO  com.testCases.LoginTest - exit
+23:11:45.298 [TestNG-tests-2] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+23:11:45.299 [TestNG-tests-2] INFO  com.testCases.LoginTest - Login Page
+23:12:55.199 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started Chrome
+23:12:57.440 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+23:12:57.983 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+23:12:58.111 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+23:12:59.234 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+23:12:59.757 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+23:13:30.130 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+23:13:30.635 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+23:14:00.913 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+23:14:01.351 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+23:14:32.959 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Started firefox
+23:14:36.234 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - mapped to config
+23:14:36.844 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - navigated to url
+23:14:36.859 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - exit
+23:14:36.935 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+23:14:37.723 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+23:15:08.043 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+23:15:08.999 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+23:15:39.308 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - Login Page
+23:15:40.264 [main] INFO  com.testCases.TC_003_LoginDataDrivenTest - providing login details
+23:16:17.562 [TestNG-tests-1] INFO  com.testCases.LoginTest - Started Chrome
+23:16:19.905 [TestNG-tests-1] INFO  com.testCases.LoginTest - mapped to config
+23:16:20.510 [TestNG-tests-1] INFO  com.testCases.LoginTest - navigated to url
+23:16:20.891 [TestNG-tests-1] INFO  com.testCases.LoginTest - exit
+23:16:21.665 [TestNG-tests-1] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+23:16:21.752 [TestNG-tests-1] INFO  com.testCases.LoginTest - Login Page
+23:16:22.600 [TestNG-tests-1] INFO  com.testCases.LoginTest - providing login details
+23:16:23.038 [TestNG-tests-1] INFO  com.testCases.LoginTest - Clicked on login
+23:16:23.746 [TestNG-tests-2] INFO  com.testCases.LoginTest - mapped to config
+23:16:23.783 [TestNG-tests-1] INFO  com.testCases.LoginTest - Done case 2!!!!!!!!!!
+23:16:24.521 [TestNG-tests-2] INFO  com.testCases.LoginTest - navigated to url
+23:16:24.532 [TestNG-tests-2] INFO  com.testCases.LoginTest - exit
+23:16:24.537 [TestNG-tests-2] INFO  com.testCases.LoginTest - ***************************Starting TC_02***************************
+23:16:24.538 [TestNG-tests-2] INFO  com.testCases.LoginTest - Login Page
