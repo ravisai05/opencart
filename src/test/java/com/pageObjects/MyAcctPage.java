@@ -20,7 +20,7 @@ public class MyAcctPage extends BasePage {
 	
 	
 	public boolean isMyAccountExist() {
-		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(15));
 		try {
 			
 			return (myact_MSG.isDisplayed());

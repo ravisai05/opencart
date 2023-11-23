@@ -69,7 +69,7 @@ public class BaseTestCase {
 	@AfterTest(groups = {"sanity","reg","master"})
 	public void tearDown() {
 			driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
-	        driver.close();
+	        driver.quit();
 	}
 	public String generateUserName() {
 		String s=RandomStringUtils.randomAlphabetic(7);
