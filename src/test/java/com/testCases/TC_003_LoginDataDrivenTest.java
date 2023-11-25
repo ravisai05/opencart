@@ -26,11 +26,12 @@ public class TC_003_LoginDataDrivenTest extends BaseTestCase{
 		lp.setPassword(password);
 		lp.clickLogin();
 		MyAcctPage ap=new MyAcctPage(driver);
-		boolean actualpageexist=ap.isMyAccountExist();
+		boolean actualpageexist=ap.logoutExist();
 		if(expected=="valid") {
 			if(actualpageexist==true) {
-				ap.clickLogout();
 				Assert.assertTrue(true);
+				ap.clickLogout();
+				
 			}
 			else {
 				Assert.assertTrue(false);
@@ -38,8 +39,9 @@ public class TC_003_LoginDataDrivenTest extends BaseTestCase{
 		}
 		else {
 			if(actualpageexist==true) {
-				ap.clickLogout();
 				Assert.assertTrue(false);
+				ap.clickLogout();
+				
 			}
 			else {
 				Assert.assertTrue(true);

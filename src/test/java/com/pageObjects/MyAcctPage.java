@@ -12,23 +12,32 @@ public class MyAcctPage extends BasePage {
 		super(driver);
 		// TODO Auto-generated constructor stub
 	}
-	@FindBy (xpath="//h2[text()='My Account']")
-	WebElement myact_MSG;
 	
+	@FindBy (xpath="//h2[text()='My Account']")
+	WebElement acct;
 	@FindBy (xpath="//a[text() ='Logout']")
 	WebElement logout;
 	
 	
 	public boolean isMyAccountExist() {
-		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(15));
 		try {
-			
-			return (myact_MSG.isDisplayed());
-			
+			driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
+			return (acct.isDisplayed());
 		}catch (Exception e) {
 			// TODO: handle exception
-			return (false);
+			return false;
 		}
+		
+	}
+	public boolean logoutExist() {
+		try {
+		
+			return (logout.isDisplayed());
+		}catch (Exception e) {
+			// TODO: handle exception
+			return false;
+		}
+		
 	}
 	public void clickLogout() {
 		logout.click();

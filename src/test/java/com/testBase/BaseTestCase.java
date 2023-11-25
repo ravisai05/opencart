@@ -40,12 +40,10 @@ public class BaseTestCase {
 		switch (browser){
 		case "chrome":
 			logger.info("Started Chrome");
-			WebDriverManager.chromedriver().setup();
 			driver=new ChromeDriver();
 			break;
 		case "edge":
 			logger.info("Started edge");
-			WebDriverManager.edgedriver().setup();
 			driver=new EdgeDriver();
 			break;
 			
@@ -69,7 +67,7 @@ public class BaseTestCase {
 	@AfterTest(groups = {"sanity","reg","master"})
 	public void tearDown() {
 			driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
-	        driver.quit();
+	        driver.close();
 	}
 	public String generateUserName() {
 		String s=RandomStringUtils.randomAlphabetic(7);
